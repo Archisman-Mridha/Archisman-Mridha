@@ -26,8 +26,8 @@ I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`*
 
 * 🤝  I'm open to collaborating on Open Source Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archisman-Mridha" height= "185" width= "450" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Archisman-Mridha" width= "500" />
 </p>
 
 <br />
