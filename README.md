@@ -2,22 +2,8 @@
 
 <br />
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+  <img src="https://skillicons.dev/icons?i=aws,androidstudio,apollo,bash,cpp,docker,figma,flutter,gcp,githubactions,go,graphql,jest,kotlin,kubernetes,linux,mongodb,nestjs,nextjs,postgres,python,react,redux,redis,svelte,tensorflow,ts,styledcomponents,vite,wasm"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
-  <img src="https://img.icons8.com/parakeet/512/android.png" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/terraform.png"/>
 </p>
 <br />
@@ -31,6 +17,8 @@ I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`*
 </p>
 
 <br />
+
+### Currently Learning
 
 ### 📫 How to reach me
 Feel free to contact me anytime
