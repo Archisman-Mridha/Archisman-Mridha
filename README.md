@@ -18,18 +18,26 @@ I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`*
 
 <br />
 
-### Currently Learning
+### 😎 Currently Learning
+
+* [ ] ***`Cloudnative Tools`*** - Istio service mesh and Cilium (based on eBPF) for advanced Kubernetes Networking
+* [ ] ***`MLOps Tools`*** - How to generate synthetic data using Deep Learning and Neural Networks based on SDV algorithm
+
+<br />
 
 ### 📫 How to reach me
 Feel free to contact me anytime
 <p align="center">
   <a href="https://twitter.com/__pro__coder__">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+    <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/archisman-mridha-219292198/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:archismanmridha12345@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/mail.png"/>
+  </a>
+  <a href="https://www.instagram.com/__pro__coder__">
+   <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
