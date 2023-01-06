@@ -18,13 +18,6 @@ I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`*
 
 <br />
 
-### 😎 Currently Learning
-
-* [ ] ***`Cloudnative Tools`*** - Istio service mesh and Cilium (based on eBPF) for advanced Kubernetes Networking
-* [ ] ***`MLOps Tools`*** - How to generate synthetic data using Deep Learning and Neural Networks based on SDV algorithm
-
-<br />
-
 ### 📫 How to reach me
 Feel free to contact me anytime
 <p align="center">
