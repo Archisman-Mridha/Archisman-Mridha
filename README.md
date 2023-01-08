@@ -2,9 +2,7 @@
 
 <br />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,androidstudio,apollo,bash,cpp,docker,figma,flutter,gcp,githubactions,go,graphql,jest,kotlin,kubernetes,linux,mongodb,nestjs,nextjs,postgres,python,react,redux,redis,svelte,tensorflow,ts,styledcomponents,vite,wasm"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/terraform.png"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,nestjs,nextjs,svelte,redux,androidstudio,apollo,docker,githubactions,graphql,jest,linux,mongodb,postgres,redis,tensorflow,vite,wasm,figma"/>
 </p>
 <br />
 
@@ -15,6 +13,25 @@ I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`*
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Archisman-Mridha" width= "500" />
 </p>
+
+<br />
+
+## Languages
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,kotlin,python" />
+</p>
+
+Here are the list of languages I code in -
+
+- **GoLang** - Generally for *`building microservices`* and writing end to end infrastructure testing using *`terratest`* and *`kubernetes-e2e`*
+- **Rust** - For writing code which will compile to *`WebAssembly`*, systems programming and sometimes writing microservices
+- **TypeScript** - For building frontends for the web, using SvelteKit or NextJS
+- **Kotlin** - For building native android apps using *`Jetpack Compose`*
+- **Python** - For creating programs and Jupyter Notebooks relaed to Machine Learning projects
+
+I also spend lots of time writing *`YAML`* files while working with Kubernetes 🥹
 
 <br />
 
