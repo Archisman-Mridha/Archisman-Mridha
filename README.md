@@ -35,7 +35,7 @@ I also spend lots of time writing *`YAML`* files while working with Kubernetes ð
 
 <br />
 
-### ðŸ“« How to reach me
+## How to reach me
 Feel free to contact me anytime
 <p align="center">
   <a href="https://twitter.com/__pro__coder__">
