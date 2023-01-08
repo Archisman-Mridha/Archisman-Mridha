@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,nestjs,nextjs,svelte,redux,androidstudio,apollo,docker,githubactions,graphql,jest,linux,mongodb,postgres,redis,tensorflow,vite,wasm,figma"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,nestjs,nextjs,svelte,redux,apollo,docker,githubactions,graphql,jest,linux,mongodb,postgres,redis,tensorflow,vite,wasm,figma"/>
 </p>
 <br />
 
@@ -20,7 +20,7 @@ I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`*
 
 <p>
   <img src="https://img.icons8.com/color/48/000000/terraform.png" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,kotlin,python" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,python" />
 </p>
 
 Here are the list of languages I code in -
@@ -28,7 +28,6 @@ Here are the list of languages I code in -
 - **GoLang** - Generally for *`building microservices`* and writing end to end infrastructure testing using *`terratest`* and *`kubernetes-e2e`*
 - **Rust** - For writing code which will compile to *`WebAssembly`*, systems programming and sometimes writing microservices
 - **TypeScript** - For building frontends for the web, using SvelteKit or NextJS
-- **Kotlin** - For building native android apps using *`Jetpack Compose`*
 - **Python** - For creating programs and Jupyter Notebooks relaed to Machine Learning projects
 
 I also spend lots of time writing *`YAML`* files while working with Kubernetes 🥹
