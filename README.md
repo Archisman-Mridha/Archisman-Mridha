@@ -30,6 +30,7 @@ Here are the list of languages I code in -
 - **Rust** - For writing code which will compile to *`WebAssembly`*, systems programming and sometimes writing microservices
 - **TypeScript** - For building frontends for the web, using SvelteKit or NextJS
 - **Python** - For creating programs and Jupyter Notebooks relaed to Machine Learning projects
+- **Terraform** - For managing cloud infrastructure
 
 I also spend lots of time writing *`YAML`* files while working with Kubernetes 🥹
 
