@@ -12,6 +12,7 @@ I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`*
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Archisman-Mridha" width= "500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archisman-Mridha&layout=compact" height="198" />
 </p>
 
 <br />
