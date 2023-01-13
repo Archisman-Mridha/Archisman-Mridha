@@ -11,8 +11,8 @@ I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`*
 * 🤝  I'm open to collaborating on Open Source Projects
 
 <p>
-   <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/repos?time_range=one_year&group=other&loc_metric=changed&theme=ferns" />
-  <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/langs?time_range=one_year&loc_metric=changed&compact=True&theme=ferns" height="200" />
+   <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic" />
+  <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/langs?time_range=one_year&loc_metric=changed&compact=True&theme=classic" height="200" />
 </p>
 
 <br />
