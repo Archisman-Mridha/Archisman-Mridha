@@ -6,7 +6,7 @@
 </p>
 <br />
 
-I am interested in ***`CloudNative`***, ***`MLOps`*** and ***`Machine Learning`***. Also, I love to automate workloads and aspire to research in ***`Quantum Computation`*** and ***`Quantum Machine Learning`*** in the future.
+I am interested in **`CloudNative`**, **`MLOps`** and **`Machine Learning`**. Also, I love to automate workloads and aspire to research in ***`Quantum Computation`*** and **`Quantum Machine Learning`** in the future.
 
 * 🤝  I'm open to collaborating on Open Source Projects
 
