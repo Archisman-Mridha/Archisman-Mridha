@@ -20,8 +20,8 @@ I am interested in *`CloudNative`*, *`MLOps`* and *`Machine Learning`*. Also, I 
 ## Languages
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=go,rust,ts,python,solidity" />
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" width="50" height="50" />
 </p>
 
 Here are the list of languages I code in -
