@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,nestjs,nextjs,svelte,redux,apollo,docker,githubactions,graphql,jest,linux,mongodb,postgres,redis,tensorflow,vite,wasm,figma"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,nestjs,nextjs,react,redux,docker,githubactions,graphql,jest,linux,mongodb,postgres,redis,vite,wasm,figma"/>
 </p>
 <br />
 
