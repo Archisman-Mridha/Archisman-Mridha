@@ -20,7 +20,7 @@ I am interested in *`CloudNative`*, *`MLOps`* and *`Machine Learning`*. Also, I 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,solidity" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,rust,ts,python,solidity" />
   <img src="https://img.icons8.com/color/48/000000/terraform.png" width="50" height="50" />
 </p>
 
@@ -32,6 +32,7 @@ Here are the list of languages I code in -
 - **Python** - For creating programs and Jupyter Notebooks relaed to Machine Learning projects
 - **Terraform** - For managing cloud infrastructure
 - **Solidity** - For writing *`smart contracts`*.
+- **C++**
 
 I also spend lots of time writing *`YAML`* files while working with Kubernetes 🥹
 
