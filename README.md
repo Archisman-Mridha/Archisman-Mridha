@@ -6,7 +6,7 @@
 </p>
 <br />
 
-I am interested in *`CloudNative`*, *`MLOps`* and *`Machine Learning`*. Also, I love to automate workloads and aspire to research in *`Quantum Computation`* and *`Quantum Machine Learning`* in the future.
+I am interested in `CloudNative`, `MLOps` and `Machine Learning`. Also, I aspire to research in `Quantum Computation` and `Quantum Machine Learning` in the future.
 
 * 🤝  I'm open to collaborating on Open Source Projects
 
@@ -20,21 +20,20 @@ I am interested in *`CloudNative`*, *`MLOps`* and *`Machine Learning`*. Also, I 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,cpp,rust,ts,python,solidity" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,solidity" />
   <img src="https://img.icons8.com/color/48/000000/terraform.png" width="50" height="50" />
 </p>
 
 Here are the list of languages I code in -
 
-- **GoLang** - Generally for *`building microservices`* and writing end to end infrastructure testing using *`terratest`* and *`kubernetes-e2e`*
-- **Rust** - For writing code which will compile to *`WebAssembly`*, systems programming and sometimes writing microservices
+- **GoLang** - Generally for `building microservices` and writing end to end infrastructure testing using `terratest` and `kubernetes-e2e`
+- **Rust** - For writing code which will compile to `WebAssembly`, systems programming and sometimes writing microservices
 - **TypeScript** - For building frontends for the web, using SvelteKit or NextJS
 - **Python** - For creating programs and Jupyter Notebooks relaed to Machine Learning projects
 - **Terraform** - For managing cloud infrastructure
-- **Solidity** - For writing *`smart contracts`*.
-- **C++**
+- **Solidity** - For writing `smart contracts`.
 
-I also spend lots of time writing *`YAML`* files while working with Kubernetes 🥹
+I also spend lots of time writing `YAML` files while working with Kubernetes 🥹
 
 <br />
 
