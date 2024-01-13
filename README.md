@@ -41,6 +41,8 @@ I am interested in `Rust`, `Distributed Systems`, `Databases`, `CloudNative` and
 - [ ] Learn about real time stream processing using `Apache Flink`
 - [ ] Create a miniaturized version of Apache Kafka in Rust
 
+<br />
+
 ## How to reach me
 
 Feel free to contact me anytime
