@@ -21,13 +21,15 @@ I am interested in `Rust`, `Distributed Systems`, `Databases`, `CloudNative` and
 
   > You can check out this repository where I am currently trying to create a miniaturized version of Redis using Rust - https://github.com/Archisman-Mridha/redis-from-scratch.
 
-- **GoLang** - I use it for writing custom `Kubernetes controllers` / a backend microservice if I am in a hurry. I really like it's concurrency primitives (channels and go-routines).
+- **GoLang** - I use it for writing custom `Kubernetes controllers` / a backend microservice if I am in a hurry.
+
+  > I really like the concurrency primitives that GoLang provides - channels and go-routines. I am interested in how go-rotuines are implemented and scheduled under the hood.
+
+  >  TODO : Read - https://go.dev/src/runtime/proc.go
 
 - **TypeScript** - For building `web frontends`, using SvelteKit / NextJS.
 
-- **Terraform** - For managing `cloud infrastructure`.
-
-  > I use Terragrunt with Terraform to achieve multitenancy.
+- **Terraform** - For managing `cloud infrastructure`. With Terraform, I use Terragrunt for multitenancy and Terratest for writing end-to-end infrastructure tests.
 
 - **Kubernetes** - The layer on top of any cloud platform I use, to orchestrate microservices.
 
@@ -37,9 +39,10 @@ I am interested in `Rust`, `Distributed Systems`, `Databases`, `CloudNative` and
 
 - [ ] Contribute to [WasmTime](https://github.com/bytecodealliance/wasmtime) | [Fermyon Spin](https://github.com/fermyon/spin) | [SurrealDB](https://github.com/surrealdb/surrealdb) | [Cilium](https://github.com/cilium/cilium) | [Claudie](https://github.com/berops/claudie)
 - [ ] Practice `data structures and algorithms` problems in Leetcode.
-- [ ] Dive deep into WASI (`WebAssembly System Interface`) and WASM on the server side
-- [ ] Learn about real time stream processing using `Apache Flink`
-- [ ] Create a miniaturized version of Apache Kafka in Rust
+- [ ] Dive deep into WASI (`WebAssembly System Interface`) and WASM on the server side.
+- [ ] Learn about real time stream processing using `Apache Flink`.
+- [ ] Create a miniaturized version of Apache Kafka in Rust.
+- [ ] Become an `AWS Solutions Architect Associate`.
 
 <br />
 
