@@ -23,9 +23,7 @@ I am interested in `Rust`, `Distributed Systems`, `Databases`, `CloudNative` and
 
 - **GoLang** - I use it for writing custom `Kubernetes controllers` / a backend microservice if I am in a hurry.
 
-  > I really like the concurrency primitives that GoLang provides - channels and go-routines. I am interested in how go-rotuines are implemented and scheduled under the hood.
-
-  >  TODO : Read - https://go.dev/src/runtime/proc.go
+  > I really like the concurrency primitives that GoLang provides - channels and go-routines. I am interested in how go-rotuines are implemented and scheduled under the hood (TODO : Read - https://go.dev/src/runtime/proc.go).
 
 - **TypeScript** - For building `web frontends`, using SvelteKit / NextJS.
 
@@ -37,7 +35,7 @@ I am interested in `Rust`, `Distributed Systems`, `Databases`, `CloudNative` and
 
 ## 2024 goals
 
-- [ ] Contribute to [WasmTime](https://github.com/bytecodealliance/wasmtime) | [Fermyon Spin](https://github.com/fermyon/spin) | [SurrealDB](https://github.com/surrealdb/surrealdb) | [Cilium](https://github.com/cilium/cilium) | [Claudie](https://github.com/berops/claudie)
+- [ ] Contribute to [WasmTime](https://github.com/bytecodealliance/wasmtime) | [Fermyon Spin](https://github.com/fermyon/spin) | [SurrealDB](https://github.com/surrealdb/surrealdb) and other projects related to Rust, WASM and Web3
 - [ ] Practice `data structures and algorithms` problems in Leetcode.
 - [ ] Dive deep into WASI (`WebAssembly System Interface`) and WASM on the server side.
 - [ ] Learn about real time stream processing using `Apache Flink`.
