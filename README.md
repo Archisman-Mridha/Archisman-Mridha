@@ -1,6 +1,6 @@
 # Holla, I am Archi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
 
-I am interested in `Rust`, `Distributed Systems`, `Databases`, `CloudNative` and `MLOps`.
+I am interested in `Rust`, `Distributed Systems`, `WASM`, `Database Architectures`, `CloudNative` and `Blockchains`.
 
 <p>
    <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" />
@@ -21,7 +21,7 @@ I am interested in `Rust`, `Distributed Systems`, `Databases`, `CloudNative` and
 
   > You can check out this repository where I am currently trying to create a miniaturized version of Redis using Rust - https://github.com/Archisman-Mridha/redis-from-scratch.
 
-- **GoLang** - I use it for writing custom `Kubernetes controllers` / a backend microservice if I am in a hurry.
+- **GoLang** - I use it for writing `custom Kubernetes controllers` / a backend microservice if I am in a hurry.
 
   > I really like the concurrency primitives that GoLang provides - channels and go-routines. I am interested in how go-rotuines are implemented and scheduled under the hood (TODO : Read - https://go.dev/src/runtime/proc.go).
 
@@ -36,6 +36,7 @@ I am interested in `Rust`, `Distributed Systems`, `Databases`, `CloudNative` and
 ## 2024 goals
 
 - [ ] Contribute to [WasmTime](https://github.com/bytecodealliance/wasmtime) | [Fermyon Spin](https://github.com/fermyon/spin) | [SurrealDB](https://github.com/surrealdb/surrealdb) and other projects related to Rust, WASM and Web3
+  > My open-sourcing journey - https://github.com/users/Archisman-Mridha/projects/2
 - [ ] Practice `data structures and algorithms` problems in Leetcode.
 - [ ] Dive deep into WASI (`WebAssembly System Interface`) and WASM on the server side.
 - [ ] Learn about real time stream processing using `Apache Flink`.
