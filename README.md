@@ -12,10 +12,10 @@ I am interested in `Rust`, `Distributed Systems`, `WASM`, `Database Architecture
 ## My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,terraform,typescript,linux,docker,kubernetes,aws,githubactions,kafka,postgres,redis,elasticsearch,wasm,nestjs,nextjs,react,redux,jest,svelte,vite,graphql"/>
+  <img src="https://skillicons.dev/icons?i=rust,go,terraform,typescript,solidity,linux,docker,kubernetes,aws,githubactions,kafka,postgres,redis,elasticsearch,wasm,nestjs,nextjs,react,redux,jest,svelte,vite,graphql"/>
 </p>
 
-- **Rust** - Rust is my go-to language. I just love it! Till now, I have primarily used it to build `backend microservices`.
+- **Rust** - Rust is my go-to language. I just love it! Till now, I have primarily used it to build `backend microservices`. I also use it write smart contracts when working with Solana.
 
   > I love to read about the internal architecture of established non Rust based technologies (like Apache Kafka, Redis, ElasticSearch etc.) and try to create a miniaturized version of these technologies using Rust.
 
@@ -31,17 +31,19 @@ I am interested in `Rust`, `Distributed Systems`, `WASM`, `Database Architecture
 
 - **Kubernetes** - The layer on top of any cloud platform I use, to orchestrate microservices.
 
+- **Solidity** and **Foundry** - To write, test and deploy `smart contracts`.
+
 <br />
 
 ## 2024 goals
 
 - [ ] Contribute to [WasmTime](https://github.com/bytecodealliance/wasmtime) | [Fermyon Spin](https://github.com/fermyon/spin) | [SurrealDB](https://github.com/surrealdb/surrealdb) and other projects related to Rust, WASM and Web3
   > My open-sourcing journey - https://github.com/users/Archisman-Mridha/projects/2
-- [ ] Practice `data structures and algorithms` problems in Leetcode.
+- [ ] Learn about `Layer 2 Blockchains` like Arbitrum and Polygon Mattic | `ZK Rollups` - the solution to Ethereum scalability.
 - [ ] Dive deep into WASI (`WebAssembly System Interface`) and WASM on the server side.
-- [ ] Learn about real time stream processing using `Apache Flink`.
-- [ ] Create a miniaturized version of Apache Kafka in Rust.
 - [ ] Become an `AWS Solutions Architect Associate`.
+- [ ] Learn about real time stream processing using `Apache Flink`.
+- [ ] Practice `data structures and algorithms` problems in Leetcode.
 
 <br />
 
