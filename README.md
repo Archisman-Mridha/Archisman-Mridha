@@ -17,10 +17,6 @@ I am interested in `Rust`, `Distributed Systems`, `WASM`, `Database Architecture
 
 - **Rust** - Rust is my go-to language. I just love it! Till now, I have primarily used it to build `backend microservices`. I also use it write smart contracts when working with Solana.
 
-  > I love to read about the internal architecture of established non Rust based technologies (like Apache Kafka, Redis, ElasticSearch etc.) and try to create a miniaturized version of these technologies using Rust.
-
-  > You can check out this repository where I am currently trying to create a miniaturized version of Redis using Rust - https://github.com/Archisman-Mridha/redis-from-scratch.
-
 - **GoLang** - I use it for writing `custom Kubernetes controllers` / a backend microservice if I am in a hurry.
 
   > I really like the concurrency primitives that GoLang provides - channels and go-routines. I am interested in how go-rotuines are implemented and scheduled under the hood (TODO : Read - https://go.dev/src/runtime/proc.go).
