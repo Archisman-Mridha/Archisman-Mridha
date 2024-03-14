@@ -1,6 +1,6 @@
 # Holla, I am Archi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
 
-I am interested in `Rust`, `Distributed Systems`, `WASM` and `WASI`, `CloudNative technologies`, and `Blockchains`.
+I am interested in `Rust` | `Distributed Systems` | `Database` architectures | `Kubernetes` and `CloudNative technologies` | `Blockchains`.
 
 <p>
    <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" />
@@ -12,7 +12,7 @@ I am interested in `Rust`, `Distributed Systems`, `WASM` and `WASI`, `CloudNativ
 ## My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,solidity,terraform,kubernetes,aws,typescript,linux,docker,githubactions,kafka,postgres,redis,elasticsearch,wasm,nestjs,nextjs,react,redux,jest,svelte,vite,graphql"/>
+  <img src="https://skillicons.dev/icons?i=rust,go,solidity,terraform,aws,linux,docker,kubernetes,wasm,typescript"/>
 </p>
 
 - **Rust** - I love Rust! It's my primary language for my personal projects - like implementing the core Ethereum protocol | building Instagram clone | trying to implement different softwares like Redis / Git by myself.
