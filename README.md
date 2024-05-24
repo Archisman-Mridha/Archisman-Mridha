@@ -12,7 +12,7 @@ I am interested in `Rust` | `Distributed Systems` | `Database` architectures | `
 ## My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,zig,solidity,linux,docker,kubernetes,terraform,aws,wasm,typescript,nextjs,nestjs"/>
+  <img src="https://skillicons.dev/icons?i=rust,go,zig,cpp,solidity,linux,docker,kubernetes,terraform,aws,wasm,typescript,nextjs,nestjs"/>
 </p>
 
 - **Rust** - I love Rust! It's my primary language for my personal projects - like implementing the core Ethereum protocol | building Instagram clone | trying to implement different softwares like Redis / Git by myself.
