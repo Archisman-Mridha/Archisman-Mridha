@@ -11,8 +11,43 @@ I am interested in `Rust` | `Distributed Systems` | `Database` architectures | `
 
 ## My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,zig,cpp,solidity,linux,docker,kubernetes,terraform,aws,wasm,typescript,nextjs,nestjs"/>
+<p>
+   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Cilium-F8C517?logo=cilium&logoColor=000&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff&style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/SurrealDB-FF00A0?logo=surrealdb&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=apacheflink&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=fff&style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge" />
 </p>
 
 - **Rust** - I love Rust! It's my primary language for my personal projects - like implementing the core Ethereum protocol | building Instagram clone | trying to implement different softwares like Redis / Git by myself.
@@ -45,15 +80,15 @@ Feel free to contact me anytime during the weekends!
 
 <p align="center">
   <a href="https://twitter.com/__noob__coder__">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/archisman-mridha-219292198/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
   </a>
   <a href="mailto:archismanmridha12345@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/mail.png"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/__noob__coder__">
-   <img src="https://skillicons.dev/icons?i=instagram" />
+   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" />
   </a>
 </p>
