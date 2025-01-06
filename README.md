@@ -62,10 +62,10 @@ Programming languages :
   > [kue](https://github.com/Archisman-Mridha/kue) is a sub-project I am writing. It helps managing a Kubernetes cluster using CueLang.
 
 - [ ] Systems Engineering projects I want to get finished :
-  - [Operating System](https://github.com/Archisman-Mridha/operating-system)
+  - [Operating System](https://github.com/Archisman-Mridha/operating-system) | I'll also finish and merge the [TCP Server](https://github.com/Archisman-Mridha/tcp-server-rust) fron scratch project here.
   - [Distributed SQL based Database](https://github.com/Archisman-Mridha/distributed-sql-based-database-in-rust), supporting both LSM and B+ tree based KV engines.
   - [eBPF XDP based LoadBalancer](https://github.com/Archisman-Mridha/ebpf-based-loadbalancer)
-  - []()
+  - [WASM Runtime](https://github.com/Archisman-Mridha/wasm-runtime)
 
 - [ ] Finish the [Advanced Abstract Algebra](https://www.youtube.com/playlist?list=PLmU0FIlJY-Mm7BhXAfEchH0UZ4fK7GZv-) playlist. Clean hand-written notes should be uploaded to GitHub. We can refer to these while studying about the [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf) book.
 
