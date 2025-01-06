@@ -85,6 +85,8 @@ Let's keep these ones as unplanned (will pick up next year maybe) :
 
 - [Etherem node implementation](https://github.com/Archisman-Mridha/ethereum-node-implementation) in Zig
 - [Linux GPU driver](https://github.com/Archisman-Mridha/gpu-driver)
+- [Container Runtime, Network and Storage plugins](https://github.com/Archisman-Mridha/container-plugins)
+  > I already wrote a [CSI pluign](https://github.com/Archisman-Mridha/csi-implementation) before. I want to move it here.
 
 <br />
 
