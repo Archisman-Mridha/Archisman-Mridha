@@ -64,7 +64,8 @@ Programming languages :
   > [kue](https://github.com/Archisman-Mridha/kue) is a sub-project I am writing. It helps managing a Kubernetes cluster using CueLang.
 
 - [ ] Systems Engineering projects I want to get finished :
-  - [Operating System](https://github.com/Archisman-Mridha/operating-system) | I'll also finish and merge the [TCP Server](https://github.com/Archisman-Mridha/tcp-server-rust) fron scratch project here.
+  - [UTXO based Blockchain](https://github.com/Archisman-Mridha/utxo-blockchain-from-scratch)
+  - [Operating System](https://github.com/Archisman-Mridha/operating-system) | I'll also want to finish and merge the [TCP Server](https://github.com/Archisman-Mridha/tcp-server-rust) from scratch project here.
   - [Distributed SQL based Database](https://github.com/Archisman-Mridha/distributed-sql-based-database-in-rust), supporting both LSM and B+ tree based KV engines.
   - [eBPF XDP based LoadBalancer](https://github.com/Archisman-Mridha/ebpf-based-loadbalancer)
   - [WASM Runtime](https://github.com/Archisman-Mridha/wasm-runtime)
@@ -75,16 +76,21 @@ Programming languages :
   - [Rust Atomics and Locks](https://marabos.nl/atomics/). You can find my notes [here](https://github.com/Archisman-Mridha/rust-atomics-and-locks).
   - First 5 chapters of [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf).
   - First 10 chapters of [proof, arguments and zero knowledge](https://people.cs.georgetown.edu/jthaler/proofsargsandzk.pdf).
-     
+
 You can view my open-source contributions here :  https://github.com/users/Archisman-Mridha/projects/2
 
 **By the end of 2025, I should be capable enough to get European VISA sponsorships from European companies.**
+
+Let's keep these ones as unplanned (will pick up next year maybe) :
+
+- [Etherem node implementation](https://github.com/Archisman-Mridha/ethereum-node-implementation) in Zig
+- [Linux GPU driver](https://github.com/Archisman-Mridha/gpu-driver)
 
 <br />
 
 ## How to reach me
 
-Feel free to contact me anytime during the weekends, via :
+You can contact me via :
 
 <p align="center">
   <a href="https://twitter.com/__noob__coder__">
