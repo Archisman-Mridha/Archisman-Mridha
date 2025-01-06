@@ -59,6 +59,7 @@ Programming languages :
 - [ ] Get CKA, CKS and AWS SAA certified.
 
 - [ ] Rewrite my [instagram clone](https://github.com/archisman-mridha/instagram-clone) project in GoLang and CueLang. Also, implement real time stream processing using `Apache Flink`.
+  > [kue](https://github.com/Archisman-Mridha/kue) is a sub-project I am writing. It helps managing a Kubernetes cluster using CueLang.
 
 - [ ] Systems Engineering projects I want to get finished :
   - [Operating System](https://github.com/Archisman-Mridha/operating-system)
@@ -68,7 +69,6 @@ Programming languages :
   - []()
 
 - [ ] Finish the [Advanced Abstract Algebra](https://www.youtube.com/playlist?list=PLmU0FIlJY-Mm7BhXAfEchH0UZ4fK7GZv-) playlist. Clean hand-written notes should be uploaded to GitHub. We can refer to these while studying about the [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf) book.
-  > [kue](https://github.com/Archisman-Mridha/kue) is a sub-project I am writing. It helps managing a Kubernetes cluster using CueLang.
 
 - [ ] Book reading :
   - [Rust Atomics and Locks](https://marabos.nl/atomics/). You can find my notes [here](https://github.com/Archisman-Mridha/rust-atomics-and-locks).
