@@ -54,6 +54,8 @@ Programming languages :
 
 > I stay away from JavaScript / TypeScript / Java.
 
+<br />
+
 ## 2025 goals
 
 - [ ] Get CKA, CKS and AWS SAA certified.
