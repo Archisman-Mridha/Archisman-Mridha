@@ -63,8 +63,7 @@ Programming languages :
 
 - [ ] Systems Engineering projects I want to get finished :
   - [Operating System](https://github.com/Archisman-Mridha/operating-system)
-  - [Distributed SQL based Database](https://github.com/Archisman-Mridha/distributed-sql-based-database-in-rust)
-   > Should support both LSM and B+ tree based KV engines.
+  - [Distributed SQL based Database](https://github.com/Archisman-Mridha/distributed-sql-based-database-in-rust), supporting both LSM and B+ tree based KV engines.
   - [eBPF XDP based LoadBalancer](https://github.com/Archisman-Mridha/ebpf-based-loadbalancer)
   - []()
 
