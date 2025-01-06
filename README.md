@@ -1,6 +1,6 @@
 # Holla, I am Archi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
 
-I am interested in `Rust` | `Distributed Systems` | `Database` architectures | `Kubernetes` and `CloudNative technologies` | `Blockchains`.
+I am interested in `Systems Engineering` | `Distributed and Decentralized Systems` following `CloudNative architectures`.
 
 <p>
    <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" />
@@ -14,31 +14,25 @@ I am interested in `Rust` | `Distributed Systems` | `Database` architectures | `
 <p>
    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Cilium-F8C517?logo=cilium&logoColor=000&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff&style=for-the-badge" />
 
-   <img src="https://img.shields.io/badge/SurrealDB-FF00A0?logo=surrealdb&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=apacheflink&logoColor=fff&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" />
 
    <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge" />
 
-   <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=for-the-badge" />
-
-   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" />
 
    <img src="https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=fff&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=for-the-badge" />
+
+   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" />
 
    <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge" />
    <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" />
@@ -50,33 +44,46 @@ I am interested in `Rust` | `Distributed Systems` | `Database` architectures | `
    <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge" />
 </p>
 
-- **Rust** - I love Rust! It's my primary language for my personal projects - like implementing the core Ethereum protocol | building Instagram clone | trying to implement different softwares like Redis / Git by myself.
-- **GoLang** - I use it professionally in my `day job` and personally for writing `custom Kubernetes controllers` / backend microservices (if I am in a hurry).
-  > I really like the concurrency primitives that GoLang provides - `channels` and `go-routines` and am interested in understanding how they are implemented under the hood (TODO : Read - https://go.dev/src/runtime/proc.go).
-- **TypeScript** - For building `web frontends`, using SvelteKit / NextJS
-  > I don't enjoy writing Typescript / building frontends much (except in case of exceptional projects like [Fiberplane](https://fiberplane.com))
-- **Terraform** - For managing `cloud infrastructure`. With Terraform, I use `Terragrunt` for multitenancy and `Terratest` for writing end-to-end infrastructure tests.
-- **Kubernetes** - The layer on top of any cloud platform I use, to orchestrate microservices and avoid cloud platform vendor lock-in.
-- **Solidity** and **Foundry** - To write, test and deploy `smart contracts`.
+Programming languages :
 
-<br />
+- **GoLang** - for writing traditional microservices.
 
-## 2024 goals
+- **CueLang** and **YAML** 🥹 - for configuring Kubernetes clusters.
 
-- [ ] Contribute to [WasmTime](https://github.com/bytecodealliance/wasmtime) | [Fermyon Spin](https://github.com/fermyon/spin) | [SurrealDB](https://github.com/surrealdb/surrealdb) and other projects related to Rust, WASM and Web3
-   > My open-sourcing journey - https://github.com/users/Archisman-Mridha/projects/2
-- [ ] Dive deep into the `core Ethereum protocol`
-   > I am trying to implement it in Rust - https://github.com/Archisman-Mridha/ethereum-rust-implementation
-- [ ] Learn about `zkSNARKs (Zero-Knowledge Succint Non-interactive Arguments of Knowledge)`, `zkSTARKs (Zero-Knowledge Scalable Transparent Argument of Knowledge)` | `ZK Rollups` - the solution to Ethereum scalability | `Layer 2 Blockchains` like Arbitrum and Polygon Mattic | `PLONK (Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge)` | `Multi sig wallets` | Cryptography.
-   > At the end of the year, atleast I should be comfortable with reading [Proof, Arguments and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
-- [ ] Become a `Certified Kubernetes Administrator` and `AWS Solutions Architect Associate`.
-- [ ] Learn about real time stream processing using `Apache Flink` | Implement it in my [Instagram clone](https://github.com/Archisman-Mridha/instagram-clone) project.
+- **Rust**, **Zig** and **C** - for systems programming.
+
+> I stay away from JavaScript / TypeScript / Java.
+
+## 2025 goals
+
+- [ ] Get CKA, CKS and AWS SAA certified.
+
+- [ ] Rewrite my [instagram clone](https://github.com/archisman-mridha/instagram-clone) project in GoLang and CueLang. Also, implement real time stream processing using `Apache Flink`.
+
+- [ ] Systems Engineering projects I want to get finished :
+  - [Operating System](https://github.com/Archisman-Mridha/operating-system)
+  - [Distributed SQL based Database](https://github.com/Archisman-Mridha/distributed-sql-based-database-in-rust)
+   > Should support both LSM and B+ tree based KV engines.
+  - [eBPF XDP based LoadBalancer](https://github.com/Archisman-Mridha/ebpf-based-loadbalancer)
+  - []()
+
+- [ ] Finish the [Advanced Abstract Algebra](https://www.youtube.com/playlist?list=PLmU0FIlJY-Mm7BhXAfEchH0UZ4fK7GZv-) playlist. Clean hand-written notes should be uploaded to GitHub. We can refer to these while studying about the [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf) book.
+  > [kue](https://github.com/Archisman-Mridha/kue) is a sub-project I am writing. It helps managing a Kubernetes cluster using CueLang.
+
+- [ ] Book reading :
+  - [Rust Atomics and Locks](https://marabos.nl/atomics/). You can find my notes [here](https://github.com/Archisman-Mridha/rust-atomics-and-locks).
+  - First 5 chapters of [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf).
+  - First 10 chapters of [proof, arguments and zero knowledge](https://people.cs.georgetown.edu/jthaler/proofsargsandzk.pdf).
+     
+You can view my open-source contributions here :  https://github.com/users/Archisman-Mridha/projects/2
+
+**By the end of 2025, I should be capable enough to get European VISA sponsorships from European companies.**
 
 <br />
 
 ## How to reach me
 
-Feel free to contact me anytime during the weekends!
+Feel free to contact me anytime during the weekends, via :
 
 <p align="center">
   <a href="https://twitter.com/__noob__coder__">
