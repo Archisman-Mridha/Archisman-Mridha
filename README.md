@@ -75,9 +75,9 @@ Programming languages :
 - [ ] Book reading :
   - [Rust Atomics and Locks](https://marabos.nl/atomics/). You can find my notes [here](https://github.com/Archisman-Mridha/rust-atomics-and-locks).
   - First 5 chapters of [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf).
-  - First 10 chapters of [proof, arguments and zero knowledge](https://people.cs.georgetown.edu/jthaler/proofsargsandzk.pdf).
+  - First 10 chapters of [proof, arguments and zero knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf).
 
-You can view my open-source contributions here :  https://github.com/users/Archisman-Mridha/projects/2
+You can view my open-source contributions [here](https://github.com/users/Archisman-Mridha/projects/2)!
 
 **By the end of 2025, I should be capable enough to get European VISA sponsorships from European companies.**
 
