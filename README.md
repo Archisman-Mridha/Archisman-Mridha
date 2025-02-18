@@ -1,6 +1,6 @@
-# Holla, I am Archi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
+# Hi, I am Archi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32">
 
-I am interested in `Systems Engineering` | `Distributed and Decentralized Systems` following `CloudNative architectures`.
+I am interested in `Systems Engineering` | `Distributed and Decentralized Systems` following `CloudNative architectures` | `Cryptography` and `Core Blockchain Engineering`.
 
 <p>
    <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" />
@@ -58,35 +58,22 @@ Programming languages :
 
 ## 2025 goals
 
-- [ ] Get CKA, CKS and AWS SAA certified.
+- [ ] Get CKA and AWS ANS certified.
+
+- [ ] Systems Engineering projects I want to get finished :
+  - [Operating System](https://github.com/Archisman-Mridha/operating-system) | I'll also want to finish and merge the [TCP Server](https://github.com/Archisman-Mridha/tcp-server-rust) from scratch project here.
+  - [Distributed SQL based Database](https://github.com/Archisman-Mridha/distributed-sql-based-database-in-rust), supporting LSM tree based KV engines.
+  - [eBPF XDP based LoadBalancer](https://github.com/Archisman-Mridha/ebpf-based-loadbalancer)
+
+- [ ] Finish Abstract Algebra (Groups, Rings, Fields and Galois Theory). Then start with [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf) and [Rational points on Elliptic Curves](http://ndl.ethernet.edu.et/bitstream/123456789/53787/1/Joseph%20H.%20Silverman.pdf).
+  > You can find my notes in the [mathematics-notes](http://github.com/Archisman-Mridha/mathematics-notes) repository.
+
+- [ ] Finish reading [Rust Atomics and Locks](https://marabos.nl/atomics/). You can find my notes [here](https://github.com/Archisman-Mridha/rust-atomics-and-locks).
 
 - [ ] Rewrite my [instagram clone](https://github.com/archisman-mridha/instagram-clone) project in GoLang and CueLang. Also, implement real time stream processing using `Apache Flink`.
   > [kue](https://github.com/Archisman-Mridha/kue) is a sub-project I am writing. It helps managing a Kubernetes cluster using CueLang.
 
-- [ ] Systems Engineering projects I want to get finished :
-  - [UTXO based Blockchain](https://github.com/Archisman-Mridha/utxo-blockchain-from-scratch)
-  - [Operating System](https://github.com/Archisman-Mridha/operating-system) | I'll also want to finish and merge the [TCP Server](https://github.com/Archisman-Mridha/tcp-server-rust) from scratch project here.
-  - [Distributed SQL based Database](https://github.com/Archisman-Mridha/distributed-sql-based-database-in-rust), supporting both LSM and B+ tree based KV engines.
-  - [eBPF XDP based LoadBalancer](https://github.com/Archisman-Mridha/ebpf-based-loadbalancer)
-  - [WASM Runtime](https://github.com/Archisman-Mridha/wasm-runtime)
-
-- [ ] Finish the [Advanced Abstract Algebra](https://www.youtube.com/playlist?list=PLmU0FIlJY-Mm7BhXAfEchH0UZ4fK7GZv-) playlist. Clean hand-written notes should be uploaded to GitHub. We can refer to these while studying about the [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf) book.
-
-- [ ] Book reading :
-  - [Rust Atomics and Locks](https://marabos.nl/atomics/). You can find my notes [here](https://github.com/Archisman-Mridha/rust-atomics-and-locks).
-  - First 5 chapters of [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf).
-  - First 10 chapters of [proof, arguments and zero knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf).
-
 You can view my open-source contributions [here](https://github.com/users/Archisman-Mridha/projects/2)!
-
-**By the end of 2025, I should be capable enough to get European VISA sponsorships from European companies.**
-
-Let's keep these ones as unplanned (will pick up next year maybe) :
-
-- [Etherem node implementation](https://github.com/Archisman-Mridha/ethereum-node-implementation) in Zig
-- [Linux GPU driver](https://github.com/Archisman-Mridha/gpu-driver)
-- [Container Runtime, Network and Storage plugins](https://github.com/Archisman-Mridha/container-plugins)
-  > I already wrote a [CSI pluign](https://github.com/Archisman-Mridha/csi-implementation) before. I want to move it here.
 
 <br />
 
