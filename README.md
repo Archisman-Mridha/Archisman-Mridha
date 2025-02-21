@@ -68,7 +68,7 @@ Programming languages :
 - [ ] Finish Abstract Algebra (Groups, Rings, Fields and Galois Theory). Then start with [Arithmetic of Elliptic Curves](http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf) and [Rational points on Elliptic Curves](http://ndl.ethernet.edu.et/bitstream/123456789/53787/1/Joseph%20H.%20Silverman.pdf).
   > You can find my notes in the [mathematics-notes](http://github.com/Archisman-Mridha/mathematics-notes) repository.
 
-- [Cryptography](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX) and [Advanced topics in Cryptography](https://youtube.com/playlist?list=PLUl4u3cNGP61EZllk7zwgvPbI4kbnKhWz&si=pAuKneBjexAWsfHp)
+- [ ] [Cryptography](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX) and [Advanced topics in Cryptography](https://youtube.com/playlist?list=PLUl4u3cNGP61EZllk7zwgvPbI4kbnKhWz&si=pAuKneBjexAWsfHp)
 
 
 - [ ] Finish reading [Rust Atomics and Locks](https://marabos.nl/atomics/). You can find my notes [here](https://github.com/Archisman-Mridha/rust-atomics-and-locks).
