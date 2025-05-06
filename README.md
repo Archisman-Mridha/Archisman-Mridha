@@ -91,9 +91,6 @@ You can contact me via :
   <a href="https://www.linkedin.com/in/archisman-mridha-219292198/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
   </a>
-  <a href="mailto:archismanmridha12345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />
-  </a>
   <a href="https://www.instagram.com/__noob__coder__">
    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" />
   </a>
